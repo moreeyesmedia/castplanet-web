@@ -1,0 +1,15 @@
+{
+  "name": "castplanet-wkâ",
+  "version": "1.0.0",
+  "description": "CastPlanet Web App - Elite Mobile Fishing Competition Platform",
+  "scripts": {
+    "start": "serve -s . -p $PORT",
+    "build": "echo 'Pre-built by Expo'd"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
